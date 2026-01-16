@@ -11,18 +11,19 @@
          <br> 
          <a href="https://zse.edu.gdansk.pl/pl" target="strony">ZSE  Gdańsk</a> 
       </td> 
-      <td align=center><iframe width=650 height=650 name="strony" src="start.html" border="0"></iframe> 
+      <td align=center><iframe width=1400 height=900 name="strony" src="start.html" border="100"></iframe> 
       </td> 
       <td width=18% align="center"><a href="start.html" target="strony">Start</a> <br>
- <a href="mapa.png" target="strony">mapa</a> 
 <map id="mapa_rzymowski"> 
-            <area shape="rect" coords="2,3,91,46" href="plik.zip"> 
-            <area shape="rect" coords="2,50,91,95" href="tabela_rzymowski.html" target="obszar_glowny"> 
-            <area shape="circle" coords="48,125,23" href="formularz_rzymowski.html" target="obszar_glowny"> 
-            <area shape="poly" coords="46,166,81,225,13,225" href="rzymek21@gmail.com"> 
-            <area shape="circle" coords="48,270,23" href="index.html" target="obszar_glowny"> 
+
+            <area shape="rect" coords="2,3,4,5" href="plik.zip"> 
+            <area shape="rect" coords="2,3,4,5" href="tabela_rzymowski.html" target="obszar_glowny"> 
+            <area shape="circle" coords="2,3,4,5" href="formularz_rzymowski.html" target="obszar_glowny"> 
+            <area shape="poly" coords="2,3,4,5" href="rzymek21@gmail.com"> 
+            <area shape="circle" coords="2,3,4,5" href="index.html" target="obszar_glowny">
+<a href="mapa.png" target="strony"><td align=right>mapa</a>  
 </map> 
-  <img src="giphy.gif" alt="tutaj wybieraj linki" usemap="#mapa_rzymowski">
+  <img src="mapa.png" alt="tutaj wybieraj linki" usemap="#mapa_rzymowski">
  
       </td> 
   </tr> 
